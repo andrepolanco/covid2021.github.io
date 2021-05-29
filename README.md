@@ -1,2 +1,1 @@
-# covid2021.github.io
-80%
+# covid.github.io
